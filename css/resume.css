@@ -1,7 +1,7 @@
 @import url("initial.css");
 
 body{
-    background-color: #EFEFEF;
+    background-color: #4588f1;
     position: relative;
 }
 /*--------------------------loading----------------------------------*/
@@ -12,7 +12,7 @@ body{
     height: 100%;
     width: 100%;
     position: fixed;
-    background-color: #39a757;
+    background-color: #4588f1;
     z-index: 1;
     
 }
@@ -69,7 +69,7 @@ body{
 .topNavBar.sticky{
     padding: 10px 0;
     color: #4588f1;
-    background-color: rgba(250, 250, 250, 0.95);
+    background-color: #4588f1;
     box-shadow: 0 0 10px 5px #00000070;
     z-index: 1;
 }
@@ -103,7 +103,7 @@ body{
 
 .topNavBar .nav>ul>li>a{
     display: block;
-    color: inherit;
+    color: #4588f1;
     border-bottom: 3px solid transparent;
     padding: 13px 0 10px 0;
 }
@@ -117,7 +117,7 @@ body{
     padding: 20px;
     top: 100%;
     right: 0;
-    background-color: #fff;
+    background-color: #4588f1;
     white-space: nowrap;
     color: #4588f1;
     box-shadow: 0 0 10px 5px rgba(77, 77, 77, 0.2);
@@ -131,7 +131,7 @@ body{
     position: absolute;
     bottom: 3px;
     left: 0;
-    border-top: #07AAF5 3px solid;
+    border-top: #4588f1 3px solid;
     z-index: 1;
     border-radius: 2px;
 }
@@ -196,7 +196,7 @@ body{
 .userCard{
     max-width: 930px;
     margin:-344px auto 0;
-    background-color: #fff;
+    background-color: #4588f1;
     box-shadow: 0 0 5px 1px rgba(83, 83, 83, 0.233);
 }
 
@@ -218,7 +218,7 @@ body{
 
 
 .userCard .text .hello{        /*hello文字*/
-    background-color: #07AAF5;
+    background-color: #4588f1;
     display: inline-block;
     color: white;
     margin-top: 58px;
@@ -289,7 +289,7 @@ body{
 .userCard footer a:hover{
     display: inline-block;
     border-radius: 50%;
-    background-color: rgba(66, 66, 66, 0.438);
+    background-color: #4588f1;
 }
 
 .userCard footer svg{
@@ -310,7 +310,7 @@ body{
     border: 1px solid #CBCDCF;
     font-size: 15px;
     border-radius: 5px;
-    color: #39a757;
+    color: #4588f1;
     transition: box-shadow .5s;
 }
 
@@ -319,7 +319,7 @@ body{
 }
 
 .resumeAndIntroduction>a:visited{
-    color: #39a757;
+    color: #4588f1;
 }
 
 
@@ -337,7 +337,7 @@ section.skills{
 }
 
 .skills ol{
-    background-color: #fff;
+    background-color: #4588f1;
     box-shadow: 0 1px 6px 1px rgba(0, 0, 0, 0.18);
     padding: 35px 50px 10px 50px;
 }
@@ -484,7 +484,7 @@ section.comment form input[type=submit]{
     box-shadow: -1px 1px 5px 1px rgba(0, 0, 0, 0.2);
     padding: 10px;
     font-family: '等线';
-    background-color: #39a757;
+    background-color: #4588f1;
     border: 2px solid rgb(11, 153, 248);
     margin-top: 30px;
     margin-right: 5px;
