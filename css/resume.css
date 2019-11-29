@@ -12,7 +12,7 @@ body{
     height: 100%;
     width: 100%;
     position: fixed;
-    background-color: #4588f1;
+    background-color: #ffffff;
     z-index: 1;
     
 }
@@ -68,7 +68,7 @@ body{
 
 .topNavBar.sticky{
     padding: 10px 0;
-    color: #4588f1;
+    color: #ffffff;
     background-color: #ffffff;
     box-shadow: 0 0 10px 5px #00000070;
     z-index: 1;
@@ -80,7 +80,7 @@ body{
     padding: 2.6px 0;
 }
 .topNavBar .logo .rs{  /*logo 左侧文字*/
-    color: #4588f1;
+    color: #ffffff;
     margin-right: 4px;
     margin-left: 11px;
 }
@@ -103,7 +103,7 @@ body{
 
 .topNavBar .nav>ul>li>a{
     display: block;
-    color: #4588f1;
+    color: #ffffff;
     border-bottom: 3px solid transparent;
     padding: 13px 0 10px 0;
 }
@@ -119,7 +119,7 @@ body{
     right: 0;
     background-color: #ffffff;
     white-space: nowrap;
-    color: #4588f1;
+    color: #ffffff;
     box-shadow: 0 0 10px 5px rgba(77, 77, 77, 0.2);
     display: none;
 }
@@ -266,7 +266,7 @@ body{
 .userCard .text dl dd{
     float: left;
     width: 75%;
-    color: #4588f1;
+    color: #ffffff;
 }
 
 .userCard footer{
