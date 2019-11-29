@@ -69,7 +69,7 @@ body{
 .topNavBar.sticky{
     padding: 10px 0;
     color: #4588f1;
-    background-color: #4588f1;
+    background-color: #ffffff;
     box-shadow: 0 0 10px 5px #00000070;
     z-index: 1;
 }
@@ -117,7 +117,7 @@ body{
     padding: 20px;
     top: 100%;
     right: 0;
-    background-color: #4588f1;
+    background-color: #ffffff;
     white-space: nowrap;
     color: #4588f1;
     box-shadow: 0 0 10px 5px rgba(77, 77, 77, 0.2);
@@ -187,7 +187,7 @@ body{
 }
 
 .banner .mask{
-    background-color: #4588f1;
+    background-color: #ffffff;
     height: 515px;
 }
 
@@ -196,7 +196,7 @@ body{
 .userCard{
     max-width: 930px;
     margin:-344px auto 0;
-    background-color: #4588f1;
+    background-color: #ffffff;
     box-shadow: 0 0 5px 1px rgba(83, 83, 83, 0.233);
 }
 
@@ -218,7 +218,7 @@ body{
 
 
 .userCard .text .hello{        /*hello文字*/
-    background-color: #4588f1;
+    background-color: #e8453c;
     display: inline-block;
     color: white;
     margin-top: 58px;
@@ -337,7 +337,7 @@ section.skills{
 }
 
 .skills ol{
-    background-color: #4588f1;
+    background-color: #ffffff;
     box-shadow: 0 1px 6px 1px rgba(0, 0, 0, 0.18);
     padding: 35px 50px 10px 50px;
 }
@@ -484,7 +484,7 @@ section.comment form input[type=submit]{
     box-shadow: -1px 1px 5px 1px rgba(0, 0, 0, 0.2);
     padding: 10px;
     font-family: '等线';
-    background-color: #4588f1;
+    background-color: #ffffff;
     border: 2px solid rgb(11, 153, 248);
     margin-top: 30px;
     margin-right: 5px;
