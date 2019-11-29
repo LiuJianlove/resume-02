@@ -242,7 +242,7 @@ body{
     display: block;
     border: 6px solid transparent;
     border-top: none;
-    border-left-color: #4588f1;
+    border-left-color: #e8453c;
     position: absolute;
     left: 5px;
     top: 100%;
@@ -294,7 +294,7 @@ body{
 
 .userCard footer svg{
     font-size: 25px;
-    color: #e8453c;
+    color: #9accec;
 }
 
 
