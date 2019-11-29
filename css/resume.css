@@ -80,7 +80,7 @@ body{
     padding: 2.6px 0;
 }
 .topNavBar .logo .rs{  /*logo 左侧文字*/
-    color: #ffffff;
+    color: #39a757;
     margin-right: 4px;
     margin-left: 11px;
 }
@@ -103,7 +103,7 @@ body{
 
 .topNavBar .nav>ul>li>a{
     display: block;
-    color: #ffffff;
+    color: #4588f1;
     border-bottom: 3px solid transparent;
     padding: 13px 0 10px 0;
 }
@@ -117,9 +117,9 @@ body{
     padding: 20px;
     top: 100%;
     right: 0;
-    background-color: #ffffff;
+    background-color: #39a757;
     white-space: nowrap;
-    color: #ffffff;
+    color: #fabb2e;
     box-shadow: 0 0 10px 5px rgba(77, 77, 77, 0.2);
     display: none;
 }
@@ -187,7 +187,7 @@ body{
 }
 
 .banner .mask{
-    background-color: #ffffff;
+    background-color: #fabb2e;
     height: 515px;
 }
 
@@ -196,7 +196,7 @@ body{
 .userCard{
     max-width: 930px;
     margin:-344px auto 0;
-    background-color: #ffffff;
+    background-color: #c7c7c7;
     box-shadow: 0 0 5px 1px rgba(83, 83, 83, 0.233);
 }
 
@@ -266,7 +266,7 @@ body{
 .userCard .text dl dd{
     float: left;
     width: 75%;
-    color: #ffffff;
+    color: #fabb2e;
 }
 
 .userCard footer{
@@ -337,7 +337,7 @@ section.skills{
 }
 
 .skills ol{
-    background-color: #ffffff;
+    background-color: #c7c7c7;
     box-shadow: 0 1px 6px 1px rgba(0, 0, 0, 0.18);
     padding: 35px 50px 10px 50px;
 }
