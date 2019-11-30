@@ -337,7 +337,7 @@ section.skills{
 }
 
 .skills ol{
-    background-color: #4588f1;
+    background-color: white;
     box-shadow: 0 1px 6px 1px rgba(0, 0, 0, 0.18);
     padding: 35px 50px 10px 50px;
 }
@@ -354,7 +354,7 @@ section.skills{
 .skills ol li .progress-wrapper{
     position: relative;
     margin-top: 5px;
-    background-color: #e8453c;
+    background-color: #FAE1E1;
     height: 5px;
     border-radius: 3px;
 }
