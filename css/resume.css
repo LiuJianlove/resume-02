@@ -187,7 +187,7 @@ body{
 }
 
 .banner .mask{
-    background-color: #323231;
+    background-color: rgba(0,0,0,0.4);
     height: 515px;
 }
 
